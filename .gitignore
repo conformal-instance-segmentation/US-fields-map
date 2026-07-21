@@ -1,0 +1,14 @@
+autogeobound/
+baseline_comparison_data/
+calibration_data/
+calibration_data_deprecated/
+calibration_data_TEST/
+decode/
+experiments/
+figures/
+GEE_tile_grids/
+inference_data/
+old_files/
+resuneta/
+testing/
+training_data/
